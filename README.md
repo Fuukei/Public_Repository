@@ -1,4 +1,4 @@
-![image](https://cdn.jsdelivr.net/gh/Fuukei/Public_Repository/vision/readme/readmepr.png)
+![image](https://cdn.maho.cc/vision/readme/pr.png)
 # Public Repository
 
 Fuukei 公共资源库
